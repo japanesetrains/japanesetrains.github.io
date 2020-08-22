@@ -2,7 +2,11 @@
 
 Ran 1928 - 1969 [ Yokohama Shiden museum plaque ]
 
-Brill 79E chassis [ http://g-gauge.world.coocan.jp/PROTOTYPE/YOKOHAMA/500.html ]
+# Brill 79E chassis [ http://g-gauge.world.coocan.jp/PROTOTYPE/YOKOHAMA/500.html ]
+
+GE-265G 26KWx2
+
+
 
 
 Info about Brill 79E:
